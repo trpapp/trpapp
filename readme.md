@@ -9,10 +9,20 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# My GitHub README
+<h3>Current Projects:</h3>
+<table>
+  <tr>
+    <th>Title</th>
+    <th>Description</th>
+  </tr>
 
-Welcome to my README!
+  <tr>
+    <th><strong><a href="https://zenith-player.vercel.app">Zenith Music Player</a></strong></th> 
+    <th><em>My personal music solution, created as a progressive web app with full offline support.</em></th> 
+  </tr>
 
-<div align="center">
-    <img src="readme.svg" width="400" height="400" alt="css-in-readme">
-</div>
+  <tr>
+    <th><strong><a href="https://blog.replit.com/alexa-hackathon">Replit Summer Hackathon</a></strong></th> 
+    <th><em>Participating in the Summer Hackathon to create an Alexa skill using Replit!</em></th> 
+  </tr>
+</table>
