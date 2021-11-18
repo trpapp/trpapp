@@ -1,24 +1,13 @@
-## Welcome to [my profile](https://trpapp.github.io)! [📝](https://jhatse.info/kartik-v/krajee-markdown-editor/examples/bs4.html)[*](https://github.com/kartik-v/krajee-markdown-editor)
+## [📝](https://jhatse.info/kartik-v/krajee-markdown-editor/examples/bs4.html)[*](https://github.com/kartik-v/krajee-markdown-editor) Hi, my name is Tom. Welcome to [my profile](https://trpapp.github.io)! Have a look around:
 
-Hi, my name is Tom. Have a look around!
+**🌐 [Twitter](https://twitter.com/thomasrpapp) – [Facebook](https://facebook.com/thomasrpapp) – [LinkedIn](https://linkedin.com/in/trpapp)**
 
-[Twitter](https://twitter.com/thomasrpapp) – [Facebook](https://facebook.com/thomasrpapp) – [LinkedIn](https://linkedin.com/in/trpapp)
+#### 💡 Interests
 
-### 💡 Philosophy - WIP
+| Operating Systems | Languages  | Databases   | Software    | Hardware |
+| ----------------- | ---------- | ----------- | ----------- | -------- |
+| Debian            | Rust       | AlaSQL      | VSCodium    | RISC-V   |
+| Windows           | JavaScript | PostgreSQL  | LibreOffice | X-ray    |
+| Android           | Python     | MariaDB     | Chromium    | Radar    |
 
-### 🎯 Strategy - WIP
-
-### 🌟 Favorite
-
-| Operating Systems | Languages  | Databases   |
-| ----------------- | ---------- | ----------- |
-| Debian            | Rust       | AlaSQL      |
-| Windows           | JavaScript | PostgreSQL  |
-| Android           | Python     | MariaDB     |
-
-**Software**: VSCodium, LibreOffice, Chromium
-
-**Hardware**: RISC-V, X-ray, radar
-
-### Additional resources - WIP
-[//]: # "dwservice.net"
+###### Resources: dwservice.net, ..
