@@ -9,7 +9,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<style>
-    h1{align:center}
-</style>
-<h1>Welcome to my profile!</h1>
+# My GitHub README
+
+Welcome to my README!
+
+<div align="center">
+    <img src="example.svg" width="400" height="400" alt="css-in-readme">
+</div>
