@@ -1,15 +1,15 @@
-### Welcome to [my profile](https://trpapp.github.io)! [📝](https://jhatse.info/kartik-v/krajee-markdown-editor/examples/bs4.html)[*](https://github.com/kartik-v/krajee-markdown-editor)
+## Welcome to [my profile](https://trpapp.github.io)! [📝](https://jhatse.info/kartik-v/krajee-markdown-editor/examples/bs4.html)[*](https://github.com/kartik-v/krajee-markdown-editor)
 - - -
 
 Hi, my name is Tom. Have a look around!
 
 [Twitter](https://twitter.com/thomasrpapp) – [Facebook](https://facebook.com/thomasrpapp) – [LinkedIn](https://linkedin.com/in/trpapp)
 
-#### 💡 Philosophy - WIP
+### 💡 Philosophy - WIP
 
-#### 🎯 Strategy - WIP
+### 🎯 Strategy - WIP
 
-#### 🌟 Favorite
+### 🌟 Favorite
 
 | Operating Systems | Languages  | Databases   |
 | ----------------- | ---------- | ----------- |
@@ -21,5 +21,5 @@ Hi, my name is Tom. Have a look around!
 
 **Hardware**: RISC-V, X-ray, radar
 
-#### Additional resources - WIP
+### Additional resources - WIP
 [//]: # "dwservice.net"
