@@ -9,6 +9,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<i style="font-family:monospace">monospace font here</i>
 
 <h1 style="text-align:center">Welcome to my profile!</h1>
