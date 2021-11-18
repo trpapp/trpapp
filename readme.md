@@ -9,5 +9,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-<h1 style="text-align:center">Welcome to my profile!</h1>
+<style>
+    h1{align:center}
+</style>
+<h1>Welcome to my profile!</h1>
