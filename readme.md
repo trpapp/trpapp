@@ -1,28 +1,24 @@
-<!-- **trpapp/trpapp** is a ✨ _special_ ✨ repository because its `readme.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started:
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<h3>Current Projects:</h3>
-<table width=100%>
-  <tr>
-    <th>Title</th>
-    <th>Description</th>
-  </tr>
+### Welcome to [my profile](https://trpapp.github.io)! [📝](https://jhatse.info/kartik-v/krajee-markdown-editor/examples/bs4.html)[*](https://github.com/kartik-v/krajee-markdown-editor)
+- - -
 
-  <tr>
-    <th><strong><a href="https://zenith-player.vercel.app">Zenith Music Player</a></strong></th> 
-    <th><em>My personal music solution, created as a progressive web app with full offline support.</em></th> 
-  </tr>
+Hi, my name is Tom. Have a look around!
 
-  <tr>
-    <th><strong><a href="https://blog.replit.com/alexa-hackathon">Replit Summer Hackathon</a></strong></th> 
-    <th><em>Participating in the Summer Hackathon to create an Alexa skill using Replit!</em></th> 
-  </tr>
-</table>
+[Twitter](https://twitter.com/thomasrpapp) – [Facebook](https://facebook.com/thomasrpapp) – [LinkedIn](https://linkedin.com/in/trpapp)
+
+#### 💡 Philosophy - WIP
+
+#### 🎯 Strategy - WIP
+
+#### 🌟 Favorite
+
+| Operating Systems | Languages  | Databases   |
+| ----------------- | ---------- | ----------- |
+| Debian            | Rust       | AlaSQL      |
+| Windows           | JavaScript | PostgreSQL  |
+| Android           | Python     | MariaDB     |
+
+**Software**: VSCodium, LibreOffice, Chromium
+**Hardware**: RISC-V, X-ray, radar
+
+#### Additional resources - WIP
+[//]: # "dwservice.net"
