@@ -1,5 +1,4 @@
 ## Welcome to [my profile](https://trpapp.github.io)! [📝](https://jhatse.info/kartik-v/krajee-markdown-editor/examples/bs4.html)[*](https://github.com/kartik-v/krajee-markdown-editor)
-- - -
 
 Hi, my name is Tom. Have a look around!
 
