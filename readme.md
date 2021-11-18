@@ -18,6 +18,7 @@ Hi, my name is Tom. Have a look around!
 | Android           | Python     | MariaDB     |
 
 **Software**: VSCodium, LibreOffice, Chromium
+
 **Hardware**: RISC-V, X-ray, radar
 
 #### Additional resources - WIP
