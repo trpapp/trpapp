@@ -2,7 +2,9 @@
 
 📢 Here are my socials (please don't [cancel me](https://twitter.com/ThomasRPapp/status/1363953064718254081) 🙊): 🐤 [Twitter](https://twitter.com/ThomasRPapp) – 📘 [Facebook](https://facebook.com/ThomasRPapp) – 👨🏼‍💼 [LinkedIn](https://linkedin.com/in/trpapp)
 
-🌱 There's lots to know about me but I'll summarize the best I can. I was born and raised in 🗽 New York City, I went to 🛩️ airplane school ([Aviation HS](https://www.aviationhs.net)) and I graduated from 🎓 SUNY Buffalo with a Bachelor of Science in Computer Science. I speak Hungarian and English fluently and I'm also trying to learn Spanish. ⚡ Fun fact: I'm a big fan of scouting!
+🌱 About me: Born and raised in 🗽 New York City. Fully completed 🛩️ airplane school ([Aviation HS](https://www.aviationhs.net)). 🎓 Graduated from SUNY Buffalo with a Bachelor of Science in Computer Science. I speak Hungarian and English fluently and I'm also trying to learn Spanish. 
+
+⚡ Fun fact: I'm a big fan of scouting!
 
 ✨ Hobbies of mine: 🍕 Eating 👨🏼‍💻 Coding 🕹️ Gaming 🏕️ Camping 👣 Hiking 🗺️ Traveling 🏋🏼 Lifting 🏂 Snowboarding
 
