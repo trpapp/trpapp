@@ -1,6 +1,7 @@
 ## [📝](https://jhatse.info/kartik-v/krajee-markdown-editor/examples/bs4.html)[*](https://github.com/kartik-v/krajee-markdown-editor) Hello visitor(s), welcome to [my profile](https://trpapp.github.io)! I'm Tom, have a look around.
 
-📢 Here are my socials (please don't [cancel me](https://twitter.com/ThomasRPapp/status/1363953064718254081) 🙊): 🐤 [Twitter](https://twitter.com/ThomasRPapp) – 📘 [Facebook](https://facebook.com/ThomasRPapp) – 👨🏼‍💼 [LinkedIn](https://linkedin.com/in/trpapp)  
+📢 Here are my socials (please don't [cancel me](https://twitter.com/ThomasRPapp/status/1363953064718254081) 🙊): 🐤 [Twitter](https://twitter.com/ThomasRPapp) – 📘 [Facebook](https://facebook.com/ThomasRPapp) – 👨🏼‍💼 [LinkedIn](https://linkedin.com/in/trpapp) 
+
 🌱 About me: Born and raised in 🗽 New York City. Fully completed 🛩️ airplane school ([Aviation HS](https://www.aviationhs.net)). 🎓 Graduated from SUNY Buffalo with a Bachelor of Science in Computer Science. I speak Hungarian and English fluently and I'm also trying to learn Spanish.  
 ⚡ Fun fact: I'm a big fan of scouting!  
 ✨ Hobbies of mine: 🍕 Eating 👨🏼‍💻 Coding 🕹️ Gaming 🏕️ Camping 👣 Hiking 🗺️ Traveling 🏋🏼 Lifting 🏂 Snowboarding  
