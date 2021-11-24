@@ -1,3 +1,6 @@
+[//]: # "todo: https://medium.com/swlh/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91"
+[//]: # ".md html tag whitelist: https://github.com/github/markup/issues/245#issuecomment-682231577"
+
 ## [📝](https://jhatse.info/kartik-v/krajee-markdown-editor/examples/bs4.html)[*](https://github.com/kartik-v/krajee-markdown-editor) Hello visitor(s), welcome to [my profile](https://trpapp.github.io)! I'm Tom, have a look around.
 
 📢 Here are my socials (please don't [cancel me](https://twitter.com/ThomasRPapp/status/1363953064718254081) 🙊): 🐤 [Twitter](https://twitter.com/ThomasRPapp) – 📘 [Facebook](https://facebook.com/ThomasRPapp) – 👨🏼‍💼 [LinkedIn](https://linkedin.com/in/trpapp) 
