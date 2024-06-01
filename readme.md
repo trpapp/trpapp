@@ -48,9 +48,9 @@
   <h1 align="left"><sup>🛠️ TOOLS & TECHNOLOGIES</sup></h1>
   <p>
     <a href="https://www.microsoft.com/en-us/software-download"><img src="https://img.shields.io/badge/Windows-Operating_System-informational?style=flat&logo=WINDOWS&logoColor=white&color=2bbc8a"/></a>
-    <a href="https://debian.org"><img src="https://img.shields.io/badge/Debian_Linux-Operating_System-informational?style=flat&logo=DEBIAN&logoColor=white&color=2bbc8a"/></a>
+    <a href="https://debian.org"><img src="https://img.shields.io/badge/Debian-Operating_System-informational?style=flat&logo=DEBIAN&logoColor=white&color=2bbc8a"/></a>
     <a href="https://gitlab.xfce.org/xfce"><img src="https://img.shields.io/badge/XFCE-Desktop_Environment-informational?style=flat&logo=XFCE&logoColor=white&color=2bbc8a"/></a>
-    <a href="https://github.com/riscv-software-src"><img src="https://img.shields.io/badge/RISC_V-Instruction_Set_Architecture-informational?style=flat&logo=RISCV&logoColor=white&color=2bbc8a"/></a>
+    <a href="https://github.com/riscv-software-src"><img src="https://img.shields.io/badge/RISC%E2%80%93V-Instruction_Set_Architecture-informational?style=flat&logo=RISCV&logoColor=white&color=2bbc8a"/></a>
     <a href="https://github.com/VSCodium/vscodium"><img src="https://img.shields.io/badge/VSCodium-Integrated_Development_Environment-informational?style=flat&logo=VSCODIUM&logoColor=white&color=2bbc8a"/></a>
     <a href="https://code.visualstudio.com"><img src="https://img.shields.io/badge/VSCode-Integrated_Development_Environment-informational?style=flat&logo=VISUAL%20STUDIO%20CODE&logoColor=white&color=2bbc8a"/></a>
     <a href="https://github.com/rust-lang/rust"><img src="https://img.shields.io/badge/Rust-Programming_Language-informational?style=flat&logo=RUST&logoColor=white&color=2bbc8a"/></a>
@@ -59,7 +59,7 @@
     <a href="https://github.com/sqlite/sqlite"><img src="https://img.shields.io/badge/SQLite-Database-informational?style=flat&logo=SQLITE&logoColor=white&color=2bbc8a"/></a>
     <a href="https://www.microsoft.com/en-us/sql-server/sql-server-downloads"><img src="https://img.shields.io/badge/SQL_Server-Database-informational?style=flat&logo=MICROSOFT%20SQL%20SERVER&logoColor=white&color=2bbc8a"/></a>
     <a href="https://github.com/postgres"><img src="https://img.shields.io/badge/PostgreSQL-Database-informational?style=flat&logo=POSTGRESQL&logoColor=white&color=2bbc8a"/></a>
-    <a href="https://www.7-zip.org"><img src="https://img.shields.io/badge/7_Zip-File_Archiver-informational?style=flat&logo=7ZIP&logoColor=white&color=2bbc8a"/></a>
+    <a href="https://www.7-zip.org"><img src="https://img.shields.io/badge/7%E2%80%93Zip-File_Archiver-informational?style=flat&logo=7ZIP&logoColor=white&color=2bbc8a"/></a>
     <a href="https://libreoffice.org"><img src="https://img.shields.io/badge/LibreOffice-Office_Suite-informational?style=flat&logo=LIBREOFFICE&logoColor=white&color=2bbc8a"/></a>
     <a href="https://thunderbird.net"><img src="https://img.shields.io/badge/Thunderbird-Email_Client-informational?style=flat&logo=THUNDERBIRD&logoColor=white&color=2bbc8a"/></a>
     <a href="https://apps.microsoft.com/detail/9nrx63209r7b"><img src="https://img.shields.io/badge/Outlook-Email_Client-informational?style=flat&logo=MICROSOFT%20OUTLOOK&logoColor=white&color=2bbc8a"/></a>
@@ -86,7 +86,7 @@
 
 <div align="left">
   <h1><sup>📃 RESOURCES</sup></h1>
-  <p>
+  <p align="justify">
     <a href="https://spectrum.ieee.org/top-programming-languages">IEEE Spectrum- Top Programming Languages</a>, <a href="https://tiobe.com/tiobe-index">TIOBE index</a>, <a href="https://pypl.github.io/PYPL.html">PYPL programming languages popularity</a>, <a href="https://benchmarksgame-team.pages.debian.net/benchmarksgame/index.html">Programming languages benchmarks</a>, <a href="https://distrowatch.com">DistroWatch</a>, <a href="https://db-engines.com/en/ranking">DB-Engines Ranking</a>, <a href="https://securemessagingapps.com">Secure Messaging Apps Comparison</a>, <a href="https://en.wikipedia.org/wiki/List_of_cryptocurrencies">List of cryptocurrencies</a>, <a href="https://www.skypack.dev">Skypack</a>, <a href="https://jsdelivr.com">jsDelivr</a>, <a href="https://paolozaino.wordpress.com/2013/05/21/converting-gts-to-gbps">Converting between Gbps & raw bits (GT/s)</a>, <a href="https://techempower.com/benchmarks">Web Framework Benchmarks</a>, <a href="https://krausest.github.io/js-framework-benchmark/current.html">JavaScript Framework Benchmark</a>, <a href="https://jaxenter.com/energy-efficient-programming-languages-137264.html">Programming languages energy efficiency</a>, <a href="https://redmonk.com/sogrady/category/programming-languages">Programming language rankings</a>, <a href="https://choosealicense.com">Open Source Licenses</a>, <a href="https://windy.com">Weather Visualization</a>, <a href="https://powerthesaurus.org">Power Thesaurus</a>, <a href="https://plrank.com">Plrank</a>, <a href="https://privacytests.org">Browser privacy tests</a>
   </p>
 </div>
