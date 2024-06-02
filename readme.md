@@ -4,39 +4,17 @@
 <!--https://github.com/alexandresanlim/Badges4-README.md-Profile?tab=readme-ov-file-->
 <table>
   <tr>
-    <td width="999vw" align="left">
-      <b>🏠 PLACES I'VE LIVED</b><br>
-      <sub>🗽 New York City 🦬 Buffalo 🍂 Binghamton 🏝️ Long Island</sub>
-    </td>
-    <td width="999vw" align="right">
-      <b>LANGUAGES I KNOW 🌐</b><br>
-      <sub>🇺🇸 English 🇭🇺 Hungarian 🇵🇪 Spanish</sub>
-    </td>
-  </tr>
-  <tr>
     <td colspan="2" align="center">
       <h1>
         Hello 👋 my name is Tom!<br><sub>Have a look around <a href="https://plugins.krajee.com/markdown-editor-basic-usage-demo/1)">📝</a><a href="https://github.com/kartik-v/krajee-markdown-editor">*</a></sub><br><br><br>
-        <sup><sup>👨🏼‍💻 Coder 🏕️ Camper 🕹️ Gamer 👣 Hiker 🗺️ Traveler 🏂 Snowboarder 💡 Philosophizer 🍕 Foodie 🏋🏼 Wellness Enthusiast</sup></sup>
+        <sup><sup>👨🏼‍💻 Coder 🏕️ Camper 🕹️ Gamer 👣 Hiker 🗺️ Traveler 🏂 Snowboarder ⚜️ <a href="https://troop1.org">Scout</a> 💡 Philosophizer 🍕 Foodie 🏋🏼 Wellness Enthusiast</sup></sup>
       </h1>
       <p align="justify"><br>
-        🌱 About me: I'm a 1st generation American-Hungarian who was born in Manhattan and raised in Queens. I attended and completed Aviation High School in Long Island City where I recieved both the Airframe and Powerplant, Aircraft Mechanics Licenses (offered by my school) on top of my High School Diploma and 2 other licenses (GROL/GMDSS Operator's). I was accepted into the State University of New York at Buffalo and graduated with a Bachelor's of Science in Computer Science while also attaining certification in Data Intensive Computing and Entrepreneurship. I speak English and Hungarian fluently and I'm also learning Spanish. I have experience in the Healthcare, Defense, Real Estate, and Telecom/Technology industries.
+        🌱 <b>ABOUT ME</b>: I'm a 1st generation American-Hungarian who was born in 🗽 Manhattan and raised in 🏙️ Queens. I attended and completed 🛩️ <a href="https://www.aviationhs.net">Aviation High School</a> in Long Island City where I recieved both the 🧰 <a href="https://www.faa.gov/mechanics">Airframe and Powerplant, Aircraft Mechanics Licenses</a> (offered by my school) on top of my High School Diploma and 2 other licenses (📻 <a href="https://www.fcc.gov/wireless/bureau-divisions/mobility-division/commercial-radio-operator-license-program/commercial-0">GROL+GMDSS Operator's Licenses</a>). I was accepted into the 🎓 <a href="https://buffalo.edu">State University of New York at Buffalo</a> and graduated with a 💻 <a href="https://engineering.buffalo.edu/computer-science-engineering.html">Bachelor's of Science in Computer Science</a> while also attaining certification in 💾 <a href="https://engineering.buffalo.edu/computer-science-engineering/undergraduate/degrees-and-programs/certificate-in-data-intensive-computing.html">Data Intensive Computing</a> and 💼 <a href="https://www.ecc.edu/academics/entrepreneurship.html">Entrepreneurship</a>. I speak 🇺🇸 English and 🇭🇺 Hungarian fluently and I'm also learning 🇵🇪 Spanish. I have experience in the 🏥 Health (Nonprofit Children's Hospital), 🛡️ Defense (Military Aerospace Company), 🏘️ Real Estate (Property Assessment Company), and 📞 Telecom (Cloud Communications Company) industries.
       </p>
       <p align="justify">
-        🚀 What I'm doing: I'm currently working at a hospital that is utilizing the Microsoft stack/suite/cloud to visualize data, generate reports and automate processes. I also work on my own company called Torch Ventures, which is an attempt to put my entrepreneurial skills into practice. If you'd like to work together, please reach out by any means and also feel free to take a look through the sections in my profile for potential resources!
+        🚀 <b>WHAT I'M DOING</b>: I'm currently working with the Microsoft stack/suite/cloud to visualize data, generate reports and automate processes. I also work on my own company called 🔥 <a href="https://torch.ventures">Torch Ventures</a>, which is an attempt to put my entrepreneurial skills into practice. If you'd like to work together, please reach out by any means and also feel free to take a look through the sections in my profile for useful links!
       </p><br>
-    </td>
-  </tr>
-  <tr>
-    <td align="left">
-      <b>🏭 INDUSTRIES & ORGANIZATIONS</b><br><br>
-      <sub>🏥 Health (Nonprofit Children's Hospital) 🛡️ Defense (Military Aerospace Company) 🏘️ Real Estate (Property Assessment Company) 📞 Telecom (Cloud Communications Company)<br><br>👔⚙️ Business / Technology (<a href="https://torch.ventures">Personal Consulting</a>)<br><br>⚜️ Scouting (<a href="https://troop1.org">Nonprofit Civic Organization</a>)</sub>
-    </td>
-    <td align="right">
-      <b>EDUCATION & ACHIEVEMENTS 🌟</b><br><br>
-      <sub>🎓 <a href="https://buffalo.edu">University at Buffalo</a> 🛩️ <a href="https://www.aviationhs.net">Aviation High School</a><br><br>
-        💻 <a href="https://engineering.buffalo.edu/computer-science-engineering.html">Computer Science B.Sc</a><br>💾 <a href="https://engineering.buffalo.edu/computer-science-engineering/undergraduate/degrees-and-programs/certificate-in-data-intensive-computing.html">Data Intensive Computing Certification</a> 💼 <a href="https://www.ecc.edu/academics/entrepreneurship.html">Entrepreneurship Certification</a><br><br>
-        🧰 <a href="https://www.faa.gov/mechanics">Aircraft Mechanic (A&P Licensed)</a> 📻 <a href="https://www.fcc.gov/wireless/bureau-divisions/mobility-division/commercial-radio-operator-license-program/commercial-0">GROL+GMDSS Operator's Licenses</a></sub>
     </td>
   </tr>
 </table><br>
