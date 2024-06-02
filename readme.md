@@ -16,13 +16,10 @@
   <tr>
     <td colspan="2" align="center">
       <h1>
-        Hello 👋, my name is Tom (<a href="https://trpapp.github.io">trpapp</a>)!<br><br>
-        <sup>Have a look around <a href="https://plugins.krajee.com/markdown-editor-basic-usage-demo/1)">📝</a><a href="https://github.com/kartik-v/krajee-markdown-editor">*</a></sup>
+        Hello 👋 my name is Tom!<br><sub>Have a look around <a href="https://plugins.krajee.com/markdown-editor-basic-usage-demo/1)">📝</a><a href="https://github.com/kartik-v/krajee-markdown-editor">*</a></sub><br><br><br>
+        <sup><sup>👨🏼‍💻 Coder 🏕️ Camper 🕹️ Gamer 👣 Hiker 🗺️ Traveler 🏂 Snowboarder 💡 Philosophizer 🍕 Foodie 🏋🏼 Wellness Enthusiast</sup></sup>
       </h1>
-      <p><br>
-        👨🏼‍💻 Coder 🏕️ Camper 🕹️ Gamer 👣 Hiker 🗺️ Traveler 🏂 Snowboarder 💡 Philosophizer 🍕 Foodie 🏋🏼 Wellness Enthusiast<br><br>
-      </p>
-      <p align="justify">
+      <p align="justify"><br>
         🌱 About me: I'm a 1st generation American-Hungarian who was born in Manhattan and raised in Queens. I attended and completed Aviation High School in Long Island City where I recieved both the Airframe and Powerplant, Aircraft Mechanics Licenses (offered by my school) on top of my High School Diploma and 2 other licenses (GROL/GMDSS Operator's). I was accepted into the State University of New York at Buffalo and graduated with a Bachelor's of Science in Computer Science while also attaining certification in Data Intensive Computing and Entrepreneurship. I speak English and Hungarian fluently and I'm also learning Spanish. I have experience in the Healthcare, Defense, Real Estate, and Telecom/Technology industries.
       </p>
       <p align="justify">
