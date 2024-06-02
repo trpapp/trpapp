@@ -37,7 +37,7 @@
     </td>
     <td align="right">
       <b>EDUCATION & ACHIEVEMENTS 🌟</b><br><br>
-      <sub>🎓 <a href="https://buffalo.edu">University at Buffalo</a> 🛩️ <a href="https://aviationhs.net">Aviation High School</a><br><br>
+      <sub>🎓 <a href="https://buffalo.edu">University at Buffalo</a> 🛩️ <a href="https://www.aviationhs.net">Aviation High School</a><br><br>
         💻 <a href="https://engineering.buffalo.edu/computer-science-engineering.html">Computer Science B.Sc</a><br>💾 <a href="https://engineering.buffalo.edu/computer-science-engineering/undergraduate/degrees-and-programs/certificate-in-data-intensive-computing.html">Data Intensive Computing Certification</a> 💼 <a href="https://www.ecc.edu/academics/entrepreneurship.html">Entrepreneurship Certification</a><br><br>
         🧰 <a href="https://www.faa.gov/mechanics">Aircraft Mechanic (A&P Licensed)</a> 📻 <a href="https://www.fcc.gov/wireless/bureau-divisions/mobility-division/commercial-radio-operator-license-program/commercial-0">GROL+GMDSS Operator's Licenses</a></sub>
     </td>
