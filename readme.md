@@ -27,18 +27,16 @@
     <a href="https://gitlab.xfce.org/xfce"><img src="https://img.shields.io/badge/XFCE-Desktop_Environment-informational?style=flat&logo=XFCE&logoColor=white&color=2bbc8a"/></a>
     <a href="https://github.com/riscv-software-src"><img src="https://img.shields.io/badge/RISC%E2%80%93V-Instruction_Set_Architecture-informational?style=flat&logo=RISCV&logoColor=white&color=2bbc8a"/></a>
     <a href="https://github.com/VSCodium/vscodium"><img src="https://img.shields.io/badge/VSCodium-Integrated_Development_Environment-informational?style=flat&logo=VSCODIUM&logoColor=white&color=2bbc8a"/></a>
-    <a href="https://code.visualstudio.com"><img src="https://img.shields.io/badge/VSCode-Integrated_Development_Environment-informational?style=flat&logo=VISUAL%20STUDIO%20CODE&logoColor=white&color=2bbc8a"/></a>
+    <a href="https://clang.llvm.org"><img src="https://img.shields.io/badge/C%2FC%2B%2B-Programming_Language-informational?style=flat&logo=c&logoColor=white&color=2bbc8a"/></a>
     <a href="https://github.com/rust-lang/rust"><img src="https://img.shields.io/badge/Rust-Programming_Language-informational?style=flat&logo=RUST&logoColor=white&color=2bbc8a"/></a>
     <a href="https://learn.microsoft.com/en-us/dotnet/csharp"><img src="https://img.shields.io/badge/C%23%20%28.NET%29-Programming_Language-informational?style=flat&logo=C%23&logoColor=white&color=2bbc8a"/></a>
+    <a href="https://github.com/JuliaLang/julia"><img src="https://img.shields.io/badge/Julia-Programming_Language-informational?style=flat&logo=julia&logoColor=white&color=2bbc8a"/></a>
     <a href="https://github.com/tc39"><img src="https://img.shields.io/badge/JavaScript-Programming_Language-informational?style=flat&logo=JAVASCRIPT&logoColor=white&color=2bbc8a"/></a>
     <a href="https://github.com/sqlite/sqlite"><img src="https://img.shields.io/badge/SQLite-Database-informational?style=flat&logo=SQLITE&logoColor=white&color=2bbc8a"/></a>
     <a href="https://www.microsoft.com/en-us/sql-server/sql-server-downloads"><img src="https://img.shields.io/badge/SQL_Server-Database-informational?style=flat&logo=MICROSOFT%20SQL%20SERVER&logoColor=white&color=2bbc8a"/></a>
     <a href="https://github.com/postgres"><img src="https://img.shields.io/badge/PostgreSQL-Database-informational?style=flat&logo=POSTGRESQL&logoColor=white&color=2bbc8a"/></a>
-    <a href="https://www.7-zip.org"><img src="https://img.shields.io/badge/7%E2%80%93Zip-File_Archiver-informational?style=flat&logo=7ZIP&logoColor=white&color=2bbc8a"/></a>
     <a href="https://libreoffice.org"><img src="https://img.shields.io/badge/LibreOffice-Office_Suite-informational?style=flat&logo=LIBREOFFICE&logoColor=white&color=2bbc8a"/></a>
     <a href="https://thunderbird.net"><img src="https://img.shields.io/badge/Thunderbird-Email_Client-informational?style=flat&logo=THUNDERBIRD&logoColor=white&color=2bbc8a"/></a>
-    <a href="https://apps.microsoft.com/detail/9nrx63209r7b"><img src="https://img.shields.io/badge/Outlook-Email_Client-informational?style=flat&logo=MICROSOFT%20OUTLOOK&logoColor=white&color=2bbc8a"/></a>
-    <a href="https://apps.microsoft.com/detail/xpfftq037jwmhs"><img src="https://img.shields.io/badge/Edge-Browser-informational?style=flat&logo=MICROSOFT%20EDGE&logoColor=white&color=2bbc8a"/></a>
     <a href="https://brave.com"><img src="https://img.shields.io/badge/Brave-Browser-informational?style=flat&logo=BRAVE&logoColor=white&color=2bbc8a"/></a>
   </p>
 </div><br>
