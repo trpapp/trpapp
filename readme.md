@@ -28,6 +28,7 @@
     <a href="https://github.com/riscv-software-src"><img src="https://img.shields.io/badge/RISC%E2%80%93V-Instruction_Set_Architecture-informational?style=flat&logo=RISCV&logoColor=white&color=2bbc8a"/></a>
     <a href="https://github.com/VSCodium/vscodium"><img src="https://img.shields.io/badge/VSCodium-Integrated_Development_Environment-informational?style=flat&logo=VSCODIUM&logoColor=white&color=2bbc8a"/></a>
     <a href="https://clang.llvm.org"><img src="https://img.shields.io/badge/C%2FC%2B%2B-Programming_Language-informational?style=flat&logo=c&logoColor=white&color=2bbc8a"/></a>
+    <a href="https://ziglang.org/"><img src="https://img.shields.io/badge/Zig-Programming_Language-informational?style=flat&logo=zig&logoColor=white&color=2bbc8a"/></a>
     <a href="https://github.com/rust-lang/rust"><img src="https://img.shields.io/badge/Rust-Programming_Language-informational?style=flat&logo=RUST&logoColor=white&color=2bbc8a"/></a>
     <a href="https://learn.microsoft.com/en-us/dotnet/csharp"><img src="https://img.shields.io/badge/C%23%20%28.NET%29-Programming_Language-informational?style=flat&logo=C%23&logoColor=white&color=2bbc8a"/></a>
     <a href="https://github.com/JuliaLang/julia"><img src="https://img.shields.io/badge/Julia-Programming_Language-informational?style=flat&logo=julia&logoColor=white&color=2bbc8a"/></a>
