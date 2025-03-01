@@ -35,7 +35,8 @@
     <a href="https://www.microsoft.com/en-us/sql-server/sql-server-downloads"><img src="https://img.shields.io/badge/SQL_Server-Database-informational?style=flat&logo=MICROSOFT%20SQL%20SERVER&logoColor=white&color=2bbc8a"/></a>
     <a href="https://libreoffice.org"><img src="https://img.shields.io/badge/LibreOffice-Office_Suite-informational?style=flat&logo=LIBREOFFICE&logoColor=white&color=2bbc8a"/></a>
     <a href="https://thunderbird.net"><img src="https://img.shields.io/badge/Thunderbird-Email_Client-informational?style=flat&logo=THUNDERBIRD&logoColor=white&color=2bbc8a"/></a>
-    <a href="https://mullvad.net/en/browser"><img src="https://img.shields.io/badge/Mullvad-Browser-informational?style=flat&logo=MULLVAD&logoColor=white&color=2bbc8a"/></a>
+    <a href="https://brave.com/download"><img src="https://img.shields.io/badge/Brave-Browser-informational?style=flat&logo=BRAVE&logoColor=white&color=2bbc8a"/></a>
+    <a href="https://github.com/simplex-chat/simplex-chat"><img src="https://img.shields.io/badge/SimpleX%20Chat-Communications-informational?style=flat&logo=SIMPLEX&logoColor=white&color=2bbc8a"/></a>
   </p>
 </div><br>
 
