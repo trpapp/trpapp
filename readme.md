@@ -53,6 +53,7 @@
     <a href="https://phonespeak.com"><img src="https://ik.imagekit.io/mcdrwlkvgqh/PS/imgs/reuse/phonespeak-logo.svg" height="40"/></a>
     <a href="https://cloudfanatic.net"><img src="https://cloudfanatic.net/wp-content/uploads/2022/11/cloudfanatic-logo-blue-black.png" height="40"/></a>
     <a href="https://www.idrive.com/s3-storage-e2"><img src="https://blog.idrive.com/wp-content/uploads/2022/10/cropped-idrive-logo-2x.png" height="40"/></a>
+    <a href="https://spaceship.com"><img src="https://spaceship-cdn.com/static/spaceship/favicon/spaceship-apple-touch-icon.png" height="40"/></a>
   </p>
 </div><br>
 
