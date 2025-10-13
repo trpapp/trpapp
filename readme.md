@@ -26,7 +26,7 @@
     <a href="https://voidlinux.org"><img src="https://img.shields.io/badge/Void%20Linux-Operating_System-informational?style=flat&logo=VOIDLINUX&logoColor=white&color=2bbc8a"/></a>
     <a href="https://gitlab.xfce.org/xfce"><img src="https://img.shields.io/badge/XFCE-Desktop_Environment-informational?style=flat&logo=XFCE&logoColor=white&color=2bbc8a"/></a>
     <a href="https://github.com/riscv-software-src"><img src="https://img.shields.io/badge/RISC%E2%80%93V-Instruction_Set_Architecture-informational?style=flat&logo=RISCV&logoColor=white&color=2bbc8a"/></a>
-    <a href="https://github.com/geany/geany"><img src="https://img.shields.io/badge/Geany-Text_%26_Code_Editor-informational?style=flat"/></a>
+    <a href="https://github.com/geany/geany"><img src="https://img.shields.io/badge/Geany-Text_%26_Code_Editor-informational?style=flat&logo=VSCODIUM&logoColor=white&color=2bbc8a"/></a>
     <a href="https://odin-lang.org"><img src="https://img.shields.io/badge/Odin-Programming_Language-informational?style=flat&logo=ODIN&logoColor=white&color=2bbc8a"/></a>
     <a href="https://github.com/tc39"><img src="https://img.shields.io/badge/JavaScript-Programming_Language-informational?style=flat&logo=JAVASCRIPT&logoColor=white&color=2bbc8a"/></a>
     <a href="https://github.com/sqlite/sqlite"><img src="https://img.shields.io/badge/SQLite-Database-informational?style=flat&logo=SQLITE&logoColor=white&color=2bbc8a"/></a>
