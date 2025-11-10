@@ -23,12 +23,13 @@
   <h1 align="left"><sup>🛠️ TOOLS & TECHNOLOGIES</sup></h1>
   <p>
     <a href="https://debian.org"><img src="https://img.shields.io/badge/Debian-Operating_System-informational?style=flat&logo=DEBIAN&logoColor=white&color=2bbc8a"/></a>
-    <a href="https://voidlinux.org"><img src="https://img.shields.io/badge/Void%20Linux-Operating_System-informational?style=flat&logo=VOIDLINUX&logoColor=white&color=2bbc8a"/></a>
     <a href="https://gitlab.xfce.org/xfce"><img src="https://img.shields.io/badge/XFCE-Desktop_Environment-informational?style=flat&logo=XFCE&logoColor=white&color=2bbc8a"/></a>
     <a href="https://github.com/riscv-software-src"><img src="https://img.shields.io/badge/RISC%E2%80%93V-Instruction_Set_Architecture-informational?style=flat&logo=RISCV&logoColor=white&color=2bbc8a"/></a>
-    <a href="https://github.com/geany/geany"><img src="https://img.shields.io/badge/Geany-Text_%26_Code_Editor-informational?style=flat&logo=VSCODIUM&logoColor=white&color=2bbc8a"/></a>
-    <a href="https://odin-lang.org"><img src="https://img.shields.io/badge/Odin-Programming_Language-informational?style=flat&logo=ODIN&logoColor=white&color=2bbc8a"/></a>
+    <a href="https://github.com/VSCodium/vscodium"><img src="https://img.shields.io/badge/VSCodium-Text_%26_Code_Editor-informational?style=flat&logo=VSCODIUM&logoColor=white&color=2bbc8a"/></a>
+    <a href="https://github.com/dotnet/csharplang"><img src="https://img.shields.io/badge/C%23%20%28.NET%29-Programming_Language-informational?style=flat&logo=C%23&logoColor=white&color=2bbc8a"/></a>
     <a href="https://github.com/tc39"><img src="https://img.shields.io/badge/JavaScript-Programming_Language-informational?style=flat&logo=JAVASCRIPT&logoColor=white&color=2bbc8a"/></a>
+    <a href="https://github.com/odin-lang/Odin"><img src="https://img.shields.io/badge/Odin-Programming_Language-informational?style=flat&logo=ODIN&logoColor=white&color=2bbc8a"/></a>
+    <a href="https://github.com/JuliaLang/julia"><img src="https://img.shields.io/badge/Julia-Programming_Language-informational?style=flat&logo=JULIA&logoColor=white&color=2bbc8a"/></a>
     <a href="https://github.com/sqlite/sqlite"><img src="https://img.shields.io/badge/SQLite-Database-informational?style=flat&logo=SQLITE&logoColor=white&color=2bbc8a"/></a>
     <a href="https://libreoffice.org"><img src="https://img.shields.io/badge/LibreOffice-Office_Suite-informational?style=flat&logo=LIBREOFFICE&logoColor=white&color=2bbc8a"/></a>
     <a href="https://thunderbird.net"><img src="https://img.shields.io/badge/Thunderbird-Email_Client-informational?style=flat&logo=THUNDERBIRD&logoColor=white&color=2bbc8a"/></a>
